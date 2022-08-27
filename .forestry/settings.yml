@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Services
+- type: heading
+  label: Home
 - type: directory
   path: docs/_posts
   label: Posts
